@@ -20,6 +20,12 @@
             <router-link to="/about" class="nav-link active">
               About
             </router-link>
+            <router-link to="/create" class="nav-link active">
+              Create Product
+            </router-link>
+            <router-link to="/login" class="nav-link active">
+              Login
+            </router-link>
           </div>
         </div>
       </div>
